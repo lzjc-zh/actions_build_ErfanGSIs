@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.6.0.RFACNXM/miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.6.0.SKBCNXM/miui_VENUS_V13.0.6.0.SKBCNXM_176af7a83a_12.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
